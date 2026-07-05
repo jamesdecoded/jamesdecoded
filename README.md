@@ -58,7 +58,7 @@ I like building things that work end-to-end — from a Python script that cleans
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=D4AF37)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=D4AF37)
 
-[🔗 Live Demo](https://valerian-vault.vercel.app) &nbsp;·&nbsp; [📂 Repository](https://github.com/moreh-wes/VALERIAN-VAULT)
+[🔗 Live Demo](valerianvault.netlify.app/) &nbsp;·&nbsp; [📂 Repository](https://github.com/moreh-wes/VALERIAN-VAULT)
 
 **Role:** Collaborator — storefront, admin dashboard & payment integration (M-Pesa STK Push + Pesapal)
 
